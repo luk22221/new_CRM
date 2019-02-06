@@ -1,0 +1,54 @@
+.error
+{
+	color:red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.succes
+{
+	color:lightgreen;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.tasks{
+	text-align: center;
+	margin: 5px 370px 5px 370px;
+	background-color : #d4d5d6;
+	border-radius: 10px;
+}
+.button{
+	margin: 5px;
+}
+body{
+	background-color : #f7fcfc;
+	
+}
+.container{
+	margin-right: 20px;
+	margin-left: 20px;
+	width: 100%;
+#menu{
+	position: fixed;
+}
+.float{
+	float:left;
+}
+.floatr{
+	float:right;
+}
+.menuli{
+	margin: 15px;
+}
+.clear{
+	float: none;
+}
+.inputclient{
+	padding:7px;
+}
+.textclient{
+	text-align: center;
+}
+.table_management{
+	margin-left: 20%;
+	margin-right: 20%;
+}
